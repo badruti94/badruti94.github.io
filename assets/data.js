@@ -111,5 +111,15 @@ const projek = [{
         dibuat: 'php7, template admin, dan bootstrap, mariadb',
         status: 'selesai',
         foto: './assets//img/12.png'
+    },
+    {
+
+        nama: 'Football Workbox',
+        sc: 'https://github.com/badruti94/football-workbox',
+        web: 'https://football-workbox-badru-e0c58.web.app',
+        desc: 'Informasi Tim Sepak Bola. Memakai Konsep Progressive Web Apps dengan memakai library workbox',
+        dibuat: 'html, css, materialize css, javascript, dan workbox',
+        status: 'selesai',
+        foto: './assets//img/13.jpg'
     }
 ]
