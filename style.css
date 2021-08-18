@@ -220,6 +220,12 @@ a:hover {
         padding: 35px 40px;
     }
 }
+@media screen and (max-width: 500px) {
+    nav ul li {
+        margin-right: 2px;
+        padding: 2px;
+    }
+}
 
 
 /* dark mode */
