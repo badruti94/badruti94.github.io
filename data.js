@@ -2,7 +2,7 @@ const projects = [
     {
         title : 'Portofolio',
         image : 'portofolio.png',
-        description : 'Portofolio that I made with vanilla CSS and vanilla Javascript.',
+        description : 'My portofolio. Build with vanilla js and CSS.',
         githubs: [
             'https://github.com/badruti94/badruti94.github.io',
         ],

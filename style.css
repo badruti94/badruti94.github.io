@@ -99,6 +99,7 @@ nav ul li a {
 }
 
 .info .cv {
+    margin: 0 auto;
     margin-top: 25px;
     max-width: 150px;
     background-color: #5F7A61;
