@@ -34,7 +34,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
     let html = ''
-    projects.forEach(project => {
+    projects.sort((a,b) => b.id - a.id).forEach(project => {
         let github_link = ''
 
         project.githubs.forEach(github => {
