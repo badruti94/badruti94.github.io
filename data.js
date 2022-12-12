@@ -61,5 +61,16 @@ const projects = [
         ],
         web: 'https://stackoverflow-clone-kohl.vercel.app/'
     },
+    {
+        id: 7,
+        title: 'Simple Inventory',
+        image: 'inventory.png',
+        description: 'Web App untuk penyimpanan barang seperti pergudangan. Dibuat dengan React dan Node JS dengan Express JS sebagai frameworknya juga PostgreSQL sebagai databasenya',
+        githubs: [
+            'https://github.com/badruti94/inventory',
+            'https://github.com/badruti94/inventory-be',
+        ],
+        web: 'https://inventory-mu-eight.vercel.app/'
+    },
 
 ]
