@@ -44,7 +44,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const web_link = project.web ? `<li><a href="${project.web}" target="_blank" > <i class="fas fa-globe"></i> </a></li>` : '';
 
         html += `
-        <div class="card">
+        <div class="card project">
             <img src="./img/projects/${project.image}" alt="">
             <div class="info">
                 <h3>${project.title}</h3>

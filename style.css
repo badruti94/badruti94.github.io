@@ -98,6 +98,11 @@ nav ul li a {
     margin-top: 10px;
 }
 
+.project .info p {
+    height: 140px;
+    overflow: scroll;
+}
+
 .info .cv {
     margin: 0 auto;
     margin-top: 25px;

@@ -72,5 +72,27 @@ const projects = [
         ],
         web: 'https://inventory-mu-eight.vercel.app/'
     },
+    {
+        id: 8,
+        title: 'Simple Blog',
+        image: 'simple-blog.png',
+        description: 'Website blog sederhana yang menggunakan format markdown dalam menulis postingan. Dibuat dengan React dan Node JS dengan Express JS sebagai frameworknya juga PostgreSQL sebagai databasenya',
+        githubs: [
+            'https://github.com/badruti94/simple-blog-fe',
+            'https://github.com/badruti94/simple-blog',
+        ],
+        web: 'https://simple-blog-fe.vercel.app/'
+    },
+    {
+        id: 9,
+        title: 'Simple Olshop',
+        image: 'simple-olshop.png',
+        description: 'Aplikasi toko online sederhana berbasis website. Dibuat dengan React dan Node JS dengan Express JS sebagai frameworknya juga PostgreSQL sebagai databasenya',
+        githubs: [
+            'https://github.com/badruti94/simple-olshop-7-fe',
+            'https://github.com/badruti94/simple-olshop-7',
+        ],
+        web: 'https://simple-olshop-7-fe.vercel.app/'
+    },
 
 ]
