@@ -1,45 +1,5 @@
 const projects = [
     {
-        id: 1,
-        title: 'Portofolio',
-        image: 'portofolio.png',
-        description: 'My portofolio. Build with vanilla js and CSS.',
-        githubs: [
-            'https://github.com/badruti94/badruti94.github.io',
-        ],
-        web: 'https://badruti94.github.io/'
-    },
-    {
-        id: 2,
-        title: 'Converter',
-        image: 'converter.png',
-        description: 'Converter. Made with React',
-        githubs: [
-            'https://github.com/badruti94/react-converter',
-        ],
-        web: 'https://react-converter-alpha.vercel.app/'
-    },
-    {
-        id: 3,
-        title: 'Calculator',
-        image: 'calculator.png',
-        description: 'Simple calculator made with react.',
-        githubs: [
-            'https://github.com/badruti94/react-calculator',
-        ],
-        web: 'https://react-calculator-lake-one.vercel.app/'
-    },
-    {
-        id: 4,
-        title: 'Brosur Generator',
-        image: 'brosur.png',
-        description: 'Web App that generate brochure. Made with react.',
-        githubs: [
-            'https://github.com/badruti94/brosur-generator',
-        ],
-        web: 'https://brosur-generator.vercel.app/'
-    },
-    {
         id: 5,
         title: 'Dumblink',
         image: 'dumblink.png',
@@ -62,17 +22,6 @@ const projects = [
         web: 'https://stackoverflow-clone-kohl.vercel.app/'
     },
     {
-        id: 7,
-        title: 'Simple Inventory',
-        image: 'inventory.png',
-        description: 'Web App untuk penyimpanan barang seperti pergudangan. Dibuat dengan React dan Node JS dengan Express JS sebagai frameworknya juga PostgreSQL sebagai databasenya',
-        githubs: [
-            'https://github.com/badruti94/inventory',
-            'https://github.com/badruti94/inventory-be',
-        ],
-        web: 'https://inventory-mu-eight.vercel.app/'
-    },
-    {
         id: 8,
         title: 'Simple Blog',
         image: 'simple-blog.png',
@@ -93,6 +42,26 @@ const projects = [
             'https://github.com/badruti94/simple-olshop-7',
         ],
         web: 'https://simple-olshop-7-fe.vercel.app/'
+    },
+    {
+        id: 10,
+        title: 'pulsa-online',
+        image: 'pulsa-online.svg',
+        description: 'Backend API for digital product orders, built with NestJS, TypeScript, TypeORM and PostgreSQL. Order, webhook, wallet and supplier integration. Portfolio project, not production.',
+        githubs: [
+            'https://github.com/badruti94/pulsa-online',
+        ],
+        web: ''
+    },
+    {
+        id: 11,
+        title: 'toko-buku',
+        image: 'toko-buku.svg',
+        description: 'Backend API for a book store, built with NestJS, TypeScript, TypeORM and PostgreSQL. Authors, categories, books, wishlists and orders, with file upload. Portfolio project, not production.',
+        githubs: [
+            'https://github.com/badruti94/toko-buku',
+        ],
+        web: ''
     },
 
 ]
